@@ -1,0 +1,9 @@
+A,B
+A,C
+A,E
+B,D
+B,F
+C,D
+D,E
+E,F
+F,G
